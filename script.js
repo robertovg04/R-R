@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/seu-usuario/meu-cdn/js/script.js
